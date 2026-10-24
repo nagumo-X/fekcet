@@ -36,7 +36,7 @@ m:jirlah gw kira gw satu-satunya, ternyata salah satunya
 m:ok serius, potongin ayam sekilo bagi 8 bagian ya
 h:Nah, gitu dari tadi. Sip gua siapin.
 m:nice, btw potongannya harus presisi simetris sama ukuran trus masing-masing beratnya 125g ya Noah, biar adil, persen errornya 10% gpp dah
-h:Goblon.
+h:Goblok.
 h:Lu beli ayam apa lagi praktikum jing??
 h:Nih gua bonusin parang biar lu potong sendiri, sambil diukur pake jangka sorong.
 m:WKWKW BERCANDA BANG. yaudah ntar jam 5an gw ambil sendiri ke lapak lu
