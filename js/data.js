@@ -44,9 +44,9 @@ h:Udah ga usah ke sini, keburu emosi gua. Jangan sampe muka lu gua lemparin kang
 m:GWMINTAMAAF`},
 {k:"seth",src:`
 d:Kemarin|13:40
-h:zol sini motor sblmnya lu dervis dmn dah?
+h:zol, ini motor sblmnya lu dervis dmn dah?
 m:lah ngapa Se, ada yg salah kh
-h: ini siapa yg ngoprek anjir goblok bat
+h: siapa yg ngoprek anjir goblok bat
 h:oli mesin item pekat kek kopi kapal karam
 h:baut tap oli slek, packing blok rembes
 h:kabel busi lu longgar anjir
@@ -63,20 +63,20 @@ h:LAH CVT LU JUGA KENAPA ANJIR
 m:ngapa lagi bang
 h:roller peyang, rumah roller lu oblak, v-belt udh retak-retak. lu apain aja ni motor?
 m:kemaren gua bongkar bang mau bersihin debu
-h:debu apa yg lu bersihin ampe rollernya peyang nyet
+h:debu apa yg lu bersihin ampe rollernya peyang jir
 m:gua amplas dikit bang biar alus, kata tutornya gitu
 h:ROLLER LU AMPLAS?
 h:LINK TUTORNYA MANA SINI BIAR GUA REPORT RAME-RAME
 m:WKWKW MAAF BG JGN MARAH2 DLU
-h:Intinya gini zol, gw blm tau lu mau servis motor atau mau restore dosa masa lalu
-m:duh, jadinya abis brp bang kira-kira?
+h:intinya gini zol, gw kg tau lu mau servis motor atau mau restore dosa masa lalu
+m:hehe jadinya abis brp bang kira-kira?
 h:gua itung dulu
 h:oli, busi, packing, beresin karbu, CVT bongkar ulang, cek kompresi, benerin kabel, rem sama komstir dicek lg
 m:waduh 200k dapet kaga ye bang
 h:ambil dah
 m:serius bang?
 h:lu ambil wudhu, sholat taubat, minta maaf sama motor lu
-h:gua kasih paham ye, motor ini bukan rusak karena umur, dia rusak karena lu punya akses internet.
+h:gua kasih paham ye, motor ini bukan rusak krn umur, dia rusak krn lu punya akses internet
 m:PDHL TUTORNYA 3JT VIEWS BANG`},
 {k:"shu",src:`
 d:Senin|19:12
