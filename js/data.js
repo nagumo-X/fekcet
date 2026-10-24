@@ -44,7 +44,7 @@ h:Udah ga usah ke sini, keburu emosi gua. Jangan sampe muka lu gua lemparin kang
 m:GWMINTAMAAF`},
 {k:"seth",src:`
 d:Kemarin|13:40
-h:zol, ini motor sblmnya lu dervis dmn dah?
+h:zol, ini motor sblmnya lu servis dmn dah?
 m:lah ngapa Se, ada yg salah kh
 h: siapa yg ngoprek anjir goblok bat
 h:oli mesin item pekat kek kopi kapal karam
