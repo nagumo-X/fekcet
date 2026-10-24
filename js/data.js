@@ -6,77 +6,77 @@ p:{
  me:{n:"Podzolik",c:"#6d9a3f",e:"P",h:"@nachtkralie",ig:"podzolik"},
  seth:{n:"Seth",c:"#e0673a",e:"S",img:"img/seth.jpg"},
  ayen:{n:"Ayen",c:"#ec6aa0",e:"A",img:"img/ayen.jpg"},
- noah:{n:"Noah Bengkel",c:"#3b82f6",e:"N",img:"img/noah.jpg"},
+ noah:{n:"Noah Sayur",c:"#3b82f6",e:"N",img:"img/noah.jpg"},
  shu:{n:"Shu",c:"#8b5cf6",e:"S",img:"img/shu.jpg"}},
 cfg:{pin:"2821",wall:"",lock:""},
 /* chat: m: = Podzolik, h: = lawan bicara, d:Label|JJ:MM = pergantian hari + jam mulai (jam tiap pesan otomatis +1 menit) */
 chats:[
-{k:"seth",src:`
+{k:"noah",src:`
 d:Hari ini|14:50
-m:Se, masih ada bawang ga di warung lu?
-h:ada banyak
+m:Noah, masih ada bawang ga di warung lu?
+h:Ada, banyak.
 m:Cakep, gw beli 3 siung ye bungkusin
-h:yaa ok
+h: Sebentar, ya, lagi rame ibu-ibu.
 m:tapi kupasin yak, trus iris-iris halus sklian. Oiya sama anter ke kostan gw ye
-h:tai lu kata gua koki pribadi lu?
-h:beli 3 siung minta dikupasin + diiris + dianterin
-h:otak lu ketinggalan dmn dah?
-m:Lah pembeli kan raja Se, lu layanin pelanggan tau ga lu
-h:ELU YG HARUSNYA TAU
-h:TAU DIRI NYET
-h:mana ada raja cuma punya duit goceng beli bawang 3 biji, mikir
+h:Tai, lu kira gua koki pribadi lu?
+hBeli 3 siung minta dikupasin + diiris + dianterin.
+h:Otak lu ketinggalan di mana, Zol?
+m:Lah pembeli kan raja No, lu layanin pelanggan tau ga lu
+h:Lu yang harusnya tau.
+h:Tau diri, anjir.
+h:mana ada raja cuma punya duit goceng beli bawang 3 biji, mikir.
 m:Hehe
 m:Yaudah sekalian beli daging ayam dah, masih ada kaga?
-h:ada nih, mau seekor atau req bagian?
-m:request bagian paha yg ayamnya kaga pernah jalan-jalan dong Se, biar empuk bat gitu
-h:yg kaga pernah jalan2 mah elu noh ama mika, doi dichat senin dibales klo ganteng doang
+h:Ada, nih. Mau seekor atau req bagian?
+m:request bagian paha yg ayamnya kaga pernah jalan-jalan dong No, biar empuk bat gitu
+h:Yang nggak pernah jalan-jalan itu lu sama Mika. Doi dichat Senin dibales kalau ganteng doang.
 m:lah gwmah ganteng
-h:bacot, udh cepet serius mau beli ga lu, pelanggan gua ga lu doang
+h:Bacot, udah cepet serius. Mau beli nggak lu? Pelanggan gua bukan lu aja.
 m:jirlah gw kira gw satu-satunya, ternyata salah satunya
 m:ok serius, potongin ayam sekilo bagi 8 bagian ya
-h:nah gitu kek dari tadi, bentar gua siapin
-m:nice, btw potongannya harus presisi simetris sama ukuran trus masing-masing beratnya 125g ya Seth biar adil, persen errornya 10% gpp dah
-h:monyet
-h:lu beli ayam apa lagi praktikum jing??
-h:nih gua bonusin parang biar lu potong sndri sambil diukur pake jangka sorong
+h:Nah, gitu dari tadi. Sip gua siapin.
+m:nice, btw potongannya harus presisi simetris sama ukuran trus masing-masing beratnya 125g ya Noah, biar adil, persen errornya 10% gpp dah
+h:Goblon.
+h:Lu beli ayam apa lagi praktikum jing??
+h:Nih gua bonusin parang biar lu potong sendiri, sambil diukur pake jangka sorong.
 m:WKWKW BERCANDA BANG. yaudah ntar jam 5an gw ambil sendiri ke lapak lu
-h:dah ga usah kesini, keburu emosi gua jgn ampe muka lu gua lemparin kangkung
+h:Udah ga usah ke sini, keburu emosi gua. Jangan sampe muka lu gua lemparin kangkung
 m:GWMINTAMAAF`},
-{k:"noah",src:`
+{k:"seth",src:`
 d:Kemarin|13:40
-h:Zol, ini sebelumnya lu servis di mana?
-m:lah ngapa bang, ada yg salah kh
-h:Anjir, ini siapa yang ngoprek goblok banget.
-h:Oli mesin hitam pekat kayak kopi kapal karam.
-h:Baut tap oli slek, packing blok rembes.
-h:Kabel busi lu longgar, anjir.
+h:zol sini motor sblmnya lu dervis dmn dah?
+m:lah ngapa Se, ada yg salah kh
+h: ini siapa yg ngoprek anjir goblok bat
+h:oli mesin item pekat kek kopi kapal karam
+h:baut tap oli slek, packing blok rembes
+h:kabel busi lu longgar anjir
 m:oh hell nawh pdhl gw udah liat tutor yutub yg viewsnya jutaan bang
 h:LU NGERJAIN SENDIRI?
 m:hehe iya sekalian belajar
-h:BELAJAR APA, ZOL?
-h:Ini motor atau bahan praktikum?
-h:Langsam aja ngga napak, karbu banjir, busi hitam legam.
+h:BELAJAR APA COK
+h:ini motor atau bahan praktikum?
+h:langsam aja gak napak, karbu banjir, busi item legam
 m:tapi kmrn masih bisa nyala ege bg
-h:Ya, kalau sekarang motor lu tinggal nama doang.
-h:Sebentar gua cek bawah.
-h:LAH CVT LU JUGA KENAPA ANJIR.
+h:ya klo skrg motor lu tinggal nama doang 
+h:bentar gw cek bawah 
+h:LAH CVT LU JUGA KENAPA ANJIR
 m:ngapa lagi bang
-h:Roller peyang, rumah roller lu oblak, v-belt udah retak-retak. Lu apain aja, sih, ni motor?
+h:roller peyang, rumah roller lu oblak, v-belt udh retak-retak. lu apain aja ni motor?
 m:kemaren gua bongkar bang mau bersihin debu
-h:Debu apa yang lu bersihkan sampai rollernya peyang, Zol?
+h:debu apa yg lu bersihin ampe rollernya peyang nyet
 m:gua amplas dikit bang biar alus, kata tutornya gitu
 h:ROLLER LU AMPLAS?
 h:LINK TUTORNYA MANA SINI BIAR GUA REPORT RAME-RAME
 m:WKWKW MAAF BG JGN MARAH2 DLU
-h:Intinya gini, Podzolik. Gua belum tau lu mau servis motor atau mau restorasi dosa masa lalu.
+h:Intinya gini zol, gw blm tau lu mau servis motor atau mau restore dosa masa lalu
 m:duh, jadinya abis brp bang kira-kira?
-h:Gua hitung dulu.
-h:Oli, busi, packing, beresin karbu, CVT bongkar ulang, cek kompresi, benerin kabel, rem sama komstir dicek lagi.
+h:gua itung dulu
+h:oli, busi, packing, beresin karbu, CVT bongkar ulang, cek kompresi, benerin kabel, rem sama komstir dicek lg
 m:waduh 200k dapet kaga ye bang
-h:Ambil.
+h:ambil dah
 m:serius bang?
-h:Lu ambil wudhu, sholat taubat, minta maaf sama motor lu.
-h:Gua kasih tau, ya, Zol. Motor ini bukan rusak karena umur, dia rusak karena lu punya akses internet.
+h:lu ambil wudhu, sholat taubat, minta maaf sama motor lu
+h:gua kasih paham ye, motor ini bukan rusak karena umur, dia rusak karena lu punya akses internet.
 m:PDHL TUTORNYA 3JT VIEWS BANG`},
 {k:"shu",src:`
 d:Senin|19:12
